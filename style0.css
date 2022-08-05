@@ -1,0 +1,46 @@
+
+.heading{
+    font-family: 'Dancing Script', cursive;
+    color: crimson;
+    text-decoration: none;
+}
+
+.paragraph{
+    text-decoration: underline;
+    word-spacing: 2em;
+    line-height: 30px;
+}
+
+#large-paragraph{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+    text-decoration: line-through;
+    text-transform: capitalize;
+    text-align: center;
+    
+}
+
+p{
+    font-size: 22px;
+    text-align: center;
+
+}
+
+h3+p{
+     font-style: italic;
+      
+}
+#large-paragraph{
+    text-transform: lowercase;
+    font-style: normal;
+}
+
+#first-paragraph{
+   font-weight: bold;
+}
+
+h3{
+    letter-spacing: 10px;
+}
